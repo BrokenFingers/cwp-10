@@ -1,0 +1,8 @@
+{
+    "name": "cwp-10",
+    "author": "Andrey",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "express": "^4.16.4"
+    }
+}
